@@ -1,6 +1,6 @@
 ##This is a project template for LMTechub students. ##Few steps to get started
 
-- Clone the repository in the created folder for your project using: "git clone git@github.com:promise-J/LMTechub_Javascript_Template.git ./"
+- Clone the repository in the created folder for your project using: "git clone git@github.com:Kenpachi2/Week1_Lesson2.0-Umeadi_Ifeanyi.git ./"
 - Run rm -fr .git to destroy any previous git connection with the cloned remote repo
 - From the terminal in your project folder, run the command "npm install" (You should see a generated node_modules folder)
 - create a new branch feature using "git branch feature" then check out to the branch
